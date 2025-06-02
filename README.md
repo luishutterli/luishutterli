@@ -1,7 +1,4 @@
-<h2 align="left">Hi 👋! I'm LSH, 17y old, coding since 6+ years.</h2>
-
-###
-Current Project: https://datierung.ch/ (uranium lead dating calculator, a school project built with flutter)
+<h2 align="left">Hi 👋! I'm LSH, 18y old, coding since 7+ years.</h2>
 
 ###
 
